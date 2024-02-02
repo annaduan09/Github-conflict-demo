@@ -21,6 +21,8 @@ This is what changes I am making.
 ```{r changes}
 a <- c(1,2,4)
 ```
+First let's have a crisis and multiple setbacks on setting up github at 8:30 in the morning
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
 	echo = TRUE,
