@@ -16,6 +16,7 @@ output:
 
 ## Setup 
 First let's set up our chunk options and required libraries. This will minimize clutter and remove unnecessary messages and warnings. 
+First let's have a crisis and multiple setbacks on setting up github at 8:30 in the morning
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
 	echo = TRUE,
