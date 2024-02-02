@@ -16,6 +16,11 @@ output:
 
 ## Setup 
 First let's set up our chunk options and required libraries. This will minimize clutter and remove unnecessary messages and warnings. 
+
+This is what changes I am making. 
+```{r changes}
+a <- c(1,2,4)
+```
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
 	echo = TRUE,
